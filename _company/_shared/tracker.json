@@ -1,0 +1,55 @@
+{
+  "tasks": [
+    {
+      "id": "20260830071007-ul54",
+      "title": "법인 설립 시 초기 비용 및 유지 비용(기장료 등) 시뮬레이션",
+      "description": "자동 등록 (Researcher 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "researcher"
+      ],
+      "createdAt": "2026-08-30T07:10:07.931Z",
+      "status": "done",
+      "sessionDir": "2026-08-30T06-58",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-08-30T06-58/_report.md\n- Researcher: 은퇴 후 경제적 자유를 위한 배당 수익 모델 중, 특히 절세 효과가 큰 법인 활용 사례와 구체적인 배당 성장주 포트폴리오 데이터를 수집하여 요약\n- 레오: Researcher가 제공한 데이터를 포함하여 '월 500만 원 자동 수익' 3단계 로드맵 영상의 상세 스크립트를 작성하세요. 시청자의 관심을 \n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 은퇴 후 경제적 자유를 위한 배당 수익 모델 중, 특히 절세 효과가 큰 법인 활용 사례와 구체적인 배당 성장주 포트폴리오 데이터를 수집하여 요약하세요.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_",
+      "completedAt": "2026-08-30T07:18:08.362Z"
+    },
+    {
+      "id": "20260830071007-k6lh",
+      "title": "실제 법인 활용 시의 건강보험료 변화 시나리오 분석",
+      "description": "자동 등록 (Researcher 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "researcher"
+      ],
+      "createdAt": "2026-08-30T07:10:07.932Z",
+      "status": "done",
+      "sessionDir": "2026-08-30T06-58",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-08-30T06-58/_report.md\n- Researcher: 은퇴 후 경제적 자유를 위한 배당 수익 모델 중, 특히 절세 효과가 큰 법인 활용 사례와 구체적인 배당 성장주 포트폴리오 데이터를 수집하여 요약\n- 레오: Researcher가 제공한 데이터를 포함하여 '월 500만 원 자동 수익' 3단계 로드맵 영상의 상세 스크립트를 작성하세요. 시청자의 관심을 \n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 은퇴 후 경제적 자유를 위한 배당 수익 모델 중, 특히 절세 효과가 큰 법인 활용 사례와 구체적인 배당 성장주 포트폴리오 데이터를 수집하여 요약하세요.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_",
+      "completedAt": "2026-08-30T07:18:08.363Z"
+    },
+    {
+      "id": "20260830071007-eelm",
+      "title": "포트폴리오별 기대 수익률(CAGR) 및 변동성 백테스팅 수행",
+      "description": "자동 등록 (Researcher 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "researcher"
+      ],
+      "createdAt": "2026-08-30T07:10:07.932Z",
+      "status": "done",
+      "sessionDir": "2026-08-30T06-58",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-08-30T06-58/_report.md\n- Researcher: 은퇴 후 경제적 자유를 위한 배당 수익 모델 중, 특히 절세 효과가 큰 법인 활용 사례와 구체적인 배당 성장주 포트폴리오 데이터를 수집하여 요약\n- 레오: Researcher가 제공한 데이터를 포함하여 '월 500만 원 자동 수익' 3단계 로드맵 영상의 상세 스크립트를 작성하세요. 시청자의 관심을 \n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 은퇴 후 경제적 자유를 위한 배당 수익 모델 중, 특히 절세 효과가 큰 법인 활용 사례와 구체적인 배당 성장주 포트폴리오 데이터를 수집하여 요약하세요.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_",
+      "completedAt": "2026-08-30T07:18:08.363Z"
+    }
+  ]
+}
