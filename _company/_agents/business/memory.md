@@ -19,3 +19,4 @@ _현빈 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰�
 - [2026-09-07] 도출된 '미개척 영역'(Researcher 산출물 기반)들을 회사의 현재 KPI와 수익화 목표에 대입하여, 가장 높은 ROI를 가져올 수 있는 단일 핵심 비즈니스 액션 아이템 1개를 선정하고 그 근거(가격 책정 전략 또는 판매 채널 변경 등)를 명확히 제시해 주세요. → 산출물 sessions/2026-09-07T11-12/business.md
 - [2026-09-07] secretary가 정리한 내부 상황과 researcher가 찾은 외부 트렌드를 기반으로, 현재 가장 높은 수익성(ROI)을 보장할 수 있는 단일 전략적 기회 영역(High-Value Opportunity Area) 1개를 도출하고 근거를 제시해 주세요. → 산출물 sessions/2026-09-07T11-27/business.md
 - [2026-09-07] Secretary가 제공한 종합 상황 브리핑과 회사 KPI(Key Performance Indicator)를 기반으로, 단기적/장기적으로 가장 높은 수익화 잠재력(Monetization Potential)을 가진 핵심 비즈니스 기회 3가지와 각 기회의 실행 난이도 및 예상 ROI(Return on Investment)를 분석하시오. → 자격증명 부족으로 차단됨
+- [2026-09-07] Secretary의 내부 메모리 분석 결과와 Researcher가 제시한 외부 트렌드를 결합하고, '회사 목표' 달성 및 수익화 관점에서 가장 높은 ROI를 창출할 수 있는 단일 핵심 작업(Single Most Valuable Task)을 선정하고, 그 실행 우선순위와 근거를 최종적으로 결정하세요. → 산출물 sessions/2026-09-07T12-39/business.md
