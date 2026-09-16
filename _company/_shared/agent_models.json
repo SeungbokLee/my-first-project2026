@@ -2,7 +2,7 @@
   "ceo": "google/gemma-4-e2b",
   "youtube": "google/gemma-4-12b-qat",
   "instagram": "google/gemma-4-12b-qat",
-  "designer": "google/gemma-4-e4b",
+  "designer": "google/gemma-4-e2b",
   "developer": "google/gemma-4-12b-qat",
   "business": "google/gemma-4-12b-qat",
   "secretary": "google/gemma-4-e4b",
